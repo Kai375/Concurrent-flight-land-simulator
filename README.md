@@ -1,2 +1,2 @@
-# Java-concurrency
-Flight/land simulator
+# Flight/land simulator
+Java concurrency
